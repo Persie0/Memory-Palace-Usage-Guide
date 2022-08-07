@@ -1,1 +1,1 @@
-# Memory-Usage-Guide
+# Memory-Palace-Usage-Guide
