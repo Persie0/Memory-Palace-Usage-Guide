@@ -1,5 +1,5 @@
 # Startup screen
-![alt text](https://github.com/Persie0/Memory-Palace-Usage-Guide/blob/main/images/photo_2022-08-08_16-38-39.jpg?raw=true =x125)
+![](https://github.com/Persie0/Memory-Palace-Usage-Guide/blob/main/images/photo_2022-08-08_16-38-39.jpg?raw=true =x125)
 
 Here you can add a location and save an overview image and station images.
 1. You enter the location name on the top and click on the add button right to it
