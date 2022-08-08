@@ -23,7 +23,9 @@ If you click on a location you can scroll through your stations. The "Play" butt
 <img src="https://github.com/Persie0/Memory-Palace-Usage-Guide/blob/main/images/photo_2022-08-08_16-38-38.jpg?raw=true" height="500" />
 
 Here you can add associations to your locations. 
--) With the "Add" button you can add them to images manually. 
+
+-) With the "Add" button you can add them to images manually.
+
 -) With the "Import from .txt." button you can import the associations from a .txt file with the following format: The first line is going to be the association lists name. The following lines are the association entries. e. g. : 
 
 Line 1: Shopping List
